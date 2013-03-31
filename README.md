@@ -26,3 +26,4 @@ I'm member of @FooOrg.
 
 See http://fooorg.github.com
 http://github.com/FooOrg/SampleProject/wiki/Welcome-to-FooOrgs-Wiki
+be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2
