@@ -24,4 +24,4 @@ Having trouble with Pages? Check out the documentation at http://help.github.com
 ### My Org
 I'm member of @FooOrg.
 
-See fooorg.github.com
+See http://fooorg.github.com
