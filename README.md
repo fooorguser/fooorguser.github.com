@@ -25,3 +25,4 @@ Having trouble with Pages? Check out the documentation at http://help.github.com
 I'm member of @FooOrg.
 
 See http://fooorg.github.com
+http://github.com/FooOrg/SampleProject/wiki/Welcome-to-FooOrgs-Wiki
